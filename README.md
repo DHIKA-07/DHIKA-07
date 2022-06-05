@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andhika QR
 - 👀 I’m interested in programming and coding 👨‍💻
-- 🌱 I’m currently learning python 🐍
+- 🌱 I’m currently learning python programming language 🐍
 - 💞️ I’m looking to collaborate on Instagram 📸
 
 <!---
